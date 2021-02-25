@@ -1,0 +1,7 @@
+.Projects {
+    background: #333 url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
+	color: $white;
+	@include flex-container(row, center, center);
+	height: 100%;
+	width: 100%;
+}

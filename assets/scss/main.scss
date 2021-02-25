@@ -1,0 +1,18 @@
+// 3rd party styles
+@import "vendor/vendor";
+
+// 1st party Styles
+@import "base/base";
+
+// Components Styles
+@import "components/header/header";
+@import "components/navbar/navbar";
+@import "components/grid-table/grid-table";
+@import "components/card/card";
+@import "components/footer/footer";
+
+// Views Styles
+@import "views/homepage/homepage";
+@import "views/projects/projects";
+@import "views/about/about";
+@import "views/career/career";
